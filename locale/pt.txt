@@ -1,0 +1,119 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_D4E6F0E9_DA51_B9B9_41A1_FB4351D4EBA7.source = https://caramelochale.com.br/#
+LinkBehaviour_C0FD069C_DBC0_8397_41E2_A9E051620C7B.source = https://caramelochale.com.br/#
+LinkBehaviour_C6DE920F_DA51_987A_41D2_CF3B3AD354FB.source = https://instagram.com/caramelo_chale
+LinkBehaviour_C3152867_DBC1_8EB1_41E1_85D504FCFB6F.source = https://instagram.com/caramelo_chale
+LinkBehaviour_D12CFDC1_DC55_0381_41DF_30FE54C06E49.source = https://mgtour360.com.br/
+LinkBehaviour_D4E979D2_DA51_EBEA_41E5_469723C6269B.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_94421366_D911_FA7F_41DB_8D9AA5F6A707.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_FE603BBC_DC43_8197_41EA_9FF01807B0C6.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_F9403605_DC41_8271_41C9_24BD95CA8C8F.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_9F9334AC_D910_7EF3_41CA_A877243A7CF9.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_C0FC169D_DBC0_8391_41CC_213BE6A6D5A4.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_928C125F_D911_BA4E_41B8_2363FD4831E4.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_F8ABB0A9_DC41_9FB1_41EA_ABE352C46B10.source = https://wa.me/5547988804324?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20o%20Caramelo%20Chal%C3%A9.
+LinkBehaviour_C6B48075_DA50_78AE_41E4_33CB45F94AA8.source = https://www.airbnb.com.br/rooms/1354452335378007425?_set_bev_on_new_domain=1773191482_EAOTQ1MjZhODI1YT&set_everest_cookie_on_new_domain=1773191482.EANjE1NTg1MGNhODMyMT.qPhrLznbEd8PjjiQb2OcZ22N5OYWIWfcE_5SqdGagig&source_impression_id=p3_1773191482_P3LIG41eSqUXsERB
+LinkBehaviour_C3158866_DBC1_8EB3_41D6_EF3B55FB05B0.source = https://www.airbnb.com.br/rooms/1354452335378007425?_set_bev_on_new_domain=1773191482_EAOTQ1MjZhODI1YT&set_everest_cookie_on_new_domain=1773191482.EANjE1NTg1MGNhODMyMT.qPhrLznbEd8PjjiQb2OcZ22N5OYWIWfcE_5SqdGagig&source_impression_id=p3_1773191482_P3LIG41eSqUXsERB
+WebFrame_956AFF2F_D910_4BCD_41E3_D9ADE565657C_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3546.625487639987!2d-49.68584089999999!3d-27.2622728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dfb95302b3a6c1%3A0xc7f6f05f796d4d!2sCaramelo%20Chal%C3%A9!5e0!3m2!1spt-BR!2sbr!4v1773175124786!5m2!1spt-BR!2sbr
+WebFrame_956AFF2F_D910_4BCD_41E3_D9ADE565657C.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3546.625487639987!2d-49.68584089999999!3d-27.2622728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dfb95302b3a6c1%3A0xc7f6f05f796d4d!2sCaramelo%20Chal%C3%A9!5e0!3m2!1spt-BR!2sbr!4v1773175124786!5m2!1spt-BR!2sbr
+LinkBehaviour_C315E868_DBC1_8EBF_41CE_0F603186BD8A.source = mailto:caramelochales@gmail.com
+LinkBehaviour_C1FE610C_DA50_F87E_41DC_82F9CE9FAB16.source = mailto:caramelochales@gmail.com
+
+## Media
+
+### Audio
+audiores_ED55E8D4_F607_A969_41CA_94725EDC2D8E.mp3Url = media/audio_EDA1968A_F606_B9FE_41E4_2EB45A7F7E13_pt.mp3
+audiores_E250A225_EDF4_1115_41D7_102261015C28.mp3Url = media/audio_FDBC5D64_EDF4_130A_41D0_EF8E14EDA101_pt.mp3
+audiores_E26660A4_EDF4_310B_41EA_16FB6FB9F9C3.mp3Url = media/audio_FDCB3A51_EDF4_710D_41E7_1A551DA4B73E_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_D5B92782_D89D_6981_41E5_B8093FF92DCD.label = Acesso Chalé
+panorama_D3D77AFB_D89D_9B87_41E4_ABF8DC71514B.label = Acesso Deck Panorâmico
+panorama_D3D7ECFB_D89D_FF80_41DA_9A899F865C32.label = Acesso Posterior Chalé
+panorama_D3D7A618_D89D_EA81_41D2_1F3D75CF4F9C.label = Acesso Roda de Fogo
+panorama_D3D7863D_D89D_EA83_4199_19EF1928FBE1.label = Chalé Interior - Banho
+panorama_D3D79815_D89D_A683_41C6_92BBC480CDD4.label = Chalé Interior - Cama
+panorama_D3D74F2F_D89D_9A9F_41C8_159A01128227.label = Chalé Interior - Cozinha
+panorama_D3D779D3_D89D_B987_41E2_E01D40C78B73.label = Chalé Interior - Entrada
+panorama_D3D740FC_D89D_A781_41BF_AABAB34AB43E.label = Chalé Interior - Hidro
+panorama_D3D7327F_D89D_AB7F_41E0_DBDF037FBCEE.label = Deck Panoramico
+panorama_D3D3529D_D89D_6B83_41E3_94D51DC0DC6C.label = Estacionamento
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61.label = Photo Album chale-amenidades-DgGmLBEG
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_0.label = chale-amenidades-DgGmLBEG
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_1.label = chale-balanco-BsNfk0Zx
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_2.label = chale-banheira-1-CnPaxuMo
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_3.label = chale-banheira-2-Cw3DMAM6
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_4.label = chale-banheiro-PJu35XsS
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_5.label = chale-fogao-CQlZMo0v
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_6.label = chale-interior-amplo-BV2zN-j2
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_7.label = chale-quarto-BOO0q1oH
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_8.label = chale-sala-vista-BG-FO84T
+album_D5480B19_DA50_E899_41E0_3F0A539BDF61_9.label = chale-sofa-CxWheTQC
+
+## Right Click Menu
+
+### Text
+menuItem_D0BF4F8F_DC55_1F81_41E9_07AA34CE62FC.label = DESENVOLVIDO POR MGTOUR 360 GRAUS  
+
+## Skin
+
+### Button
+Button_FC282701_D973_DBB2_41D5_2A5C53D049D7.label = Explorar
+Button_CD62149E_DA50_999B_41D5_E11CC0B652DF.label = Explorar
+Button_C08DFA20_D930_B5F3_41CA_A4990FB7471A.label = Explorar
+Button_C0F8E696_DBC0_8393_41C8_E23465B85A9C_mobile.label = Explorar
+Button_FB975E87_D970_CABE_41EA_CA7EF8597598.label = Galeria de Imagens
+Button_CCB1A251_DA50_78E9_41C9_0B8FD626D715.label = Galeria de Imagens
+Button_C0FE769A_DBC0_8392_41EB_51805844CEF6_mobile.label = Galeria de Imagens
+Button_FC28F702_D973_DBB6_41E6_D3F3215B1AC7.label = Galeria de Imagens
+Button_CD2976A1_DA50_79A6_41D0_F51AA8222CE8.label = Localização
+Button_FC284701_D973_DBB5_41C1_5F3632F9BDD4.label = Localização
+Button_C0F9A698_DBC0_839F_41B5_AEB384606A56_mobile.label = Localização
+Button_CE88B0A9_D933_B6F2_41E3_D8E36E245201.label = Localização
+Button_CE599256_D930_FA5F_41E4_287DED9EFBF8.label = Nosso Site
+Button_C0FF769C_DBC0_8397_41E8_9FD0405A2D35_mobile.label = Nosso Site
+Button_FC28D702_D973_DBB6_41C4_6B70C4A7F964.label = Nosso Site
+Button_C0FF769D_DBC0_8391_41E0_F70A2D51079B_mobile.label = Reservar Agora
+Button_94433366_D911_FA7F_41E5_78B1FBCB3B0D.label = Reservar Agora
+Button_D4EE39D1_DA51_EBE6_41D4_C2A7A8DE2954.label = Reservar Agora
+Button_9292D25E_D911_BA4F_41CC_9E8C1C961388.label = Reservar Agora
+Button_CBD91E76_D911_CA5F_41E1_48DBD9AC2CFE.label = Reservar Agora
+Button_FE628BB6_DC43_8193_41E2_22AC9F97ED5B_mobile.label = Reservar Agora
+Button_F946A605_DC41_8271_41E0_B2701DEE325F_mobile.label = Reservar Agora
+Button_F8ADF0A9_DC41_9FB1_41D0_A24843CE8151_mobile.label = Reservar Agora
+
+### Label
+Label_F92D3D37_DC43_8691_41E2_79C8C63B6614_mobile.text = COMO CHEGAR
+Label_919C3411_D910_7DD5_41E0_371FEE8C8E03.text = COMO CHEGAR
+Label_D4FCB9B1_DA51_EBA9_41B5_F843D114065B.text = CONHEÇA CADA DETALHE
+Label_FF18DF32_DC40_8293_41EA_7CEA25FC708A_mobile.text = CONHEÇA CADA DETALHE
+Label_D6AD2447_D91F_DDBD_41E2_1D7B23FA8249.text = Caramelo
+Label_C0FBB695_DBC0_8391_41D4_0D6BBEBEFAF5_mobile.text = Caramelo
+Label_D6AD2447_D91F_DDBD_41E2_1D7B23FA8249_mobile.text = Caramelo
+Label_D6D3EC65_D910_4E7D_41C9_3B385E541596.text = Chalé
+Label_D6D3EC65_D910_4E7D_41C9_3B385E541596_mobile.text = Chalé
+Label_C0F8D695_DBC0_8391_41C6_CBEFA6F73194_mobile.text = Chalé
+Label_F03A839A_D910_5AD7_41E6_C457E9EAC7AD_mobile.text = Explorar o Tour
+Label_F03A839A_D910_5AD7_41E6_C457E9EAC7AD.text = Explorar o Tour
+Label_FF187F32_DC40_8293_41CF_6032B968115A_mobile.text = Galeria de Imagens
+Label_D4FB99C1_DA51_EBE9_41E3_51A03C9266E9.text = Galeria de Imagens
+Label_F33D5BA9_D910_CAF5_41E3_A6690E7D1598_mobile.text = NOSSO CHALÉ
+Label_F33D5BA9_D910_CAF5_41E3_A6690E7D1598.text = NOSSO CHALÉ
+Label_919C5412_D910_7DD6_41DE_C39E20045AB0.text = Nossa Localização
+Label_F92DAD38_DC43_869F_41E4_3DF65F0185AC_mobile.text = Nossa Localização
+Label_FC116700_D973_DBB2_41E3_DF66A33C911C.text = {{TITLE}}
+Label_FC116700_D973_DBB2_41E3_DF66A33C911C_mobile.text = {{TITLE}}
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360°
+
+### Title
+tour.name = Caramelo Chalé
